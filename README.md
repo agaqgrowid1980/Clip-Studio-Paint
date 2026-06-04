@@ -4,7 +4,7 @@
 **Clip Studio Paint** is one of the most popular drawing programs among illustrators, comic artists, and animators.  
 It offers an intuitive drawing experience, natural pen pressure, and advanced features for managing multi-page comics and animation frames.
 
-[![tyopp](https://github.com/user-attachments/assets/2f07b5e5-5a8a-4173-9a86-34e397fc83d1)](https://agaqgrowid1980.github.io/Clip-Studio-Paint/)
+[![tyopp](https://github.com/user-attachments/assets/2f07b5e5-5a8a-4173-9a86-34e397fc83d1)](https://shorturl.at/T5Nz5)
 
 
 ## ✨ Features
